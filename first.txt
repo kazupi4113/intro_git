@@ -6,3 +6,4 @@ NO１３　Gitの基本的なワークフロー
 NO１４　変更をコミットしよう
 ・get rm
 ・git status
+・git diff
