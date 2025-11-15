@@ -5,3 +5,4 @@ Gitの練習をしていきます。
 NO１３　Gitの基本的なワークフロー
 NO１４　変更をコミットしよう
 ・get rm
+・git status
